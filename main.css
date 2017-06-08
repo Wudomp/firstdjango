@@ -1,3 +1,17 @@
 h1 {
     color: #426493;
+    font-size: 22px;
+    font-family: sans-serif;
+}
+
+h2 {
+	color: #001234
+	font-size: 16px;
+	font-family: serif;
+}
+
+p {
+	color: #123456
+	font-size: 12px;
+	font-family: serif;
 }
